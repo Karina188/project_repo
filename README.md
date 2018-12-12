@@ -1,30 +1,11 @@
-# This is a large heading
+#Title of the project:
 
-## This is a smaller heading
+BASH, Make, Git and GitHub
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+#The date and time at which make was run:
 
-- This is
-- an unordered
-- list
+12/12/2018
 
-1. This is
-2. an ordered
-3. list
+# The number of lines of code contained in guessinggame.sh:
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+22 
