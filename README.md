@@ -6,6 +6,6 @@ BASH, Make, Git and GitHub
 
 12/12/2018
 
-# The number of lines of code contained in guessinggame.sh:
+#The number of lines of code contained in guessinggame.sh:
 
 22 
