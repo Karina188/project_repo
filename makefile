@@ -1,8 +1,6 @@
-
-README.md:
+README.md:guessinggame.sh
 	touch README.md
 	
-
-	"Bash, Make, Git and GitHub" >> README.md
-	"12/12/2018 18:56:15" >> README.md
-	"The guessinggame.sh contains 22 lines" >> README.md
+	echo "Guessing Game Project" > README.md
+	date >> README.md
+	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
